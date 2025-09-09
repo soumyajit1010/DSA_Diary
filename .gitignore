@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Java
+*.class
+*.jar
+*.war
+
+# C++
+*.out
+*.exe
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
+# Others
+logs/*.log
