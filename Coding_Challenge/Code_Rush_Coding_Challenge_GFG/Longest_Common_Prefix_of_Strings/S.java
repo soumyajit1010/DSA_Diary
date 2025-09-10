@@ -26,7 +26,7 @@ Time Complexity: O(n * m)
 Space Complexity: O(1) (excluding the output string)
 */
 
-class Solution {
+class S {
     public String longestCommonPrefix(String arr[]) {
         if (arr == null || arr.length == 0) return "";
 
